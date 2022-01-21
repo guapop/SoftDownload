@@ -15,15 +15,15 @@
     <tr>
         <td ><center><img src="./miaoqidong/0001.jpg" ></center></td>
         <td ><center><img src="./miaoqidong/0002.jpg" ></center></td>
-        <td ><center><img src="https://gitee.com/mutoupiaoliu/SoftDownload/blob/main/miaoqidong/0003.png" ></center></td>
+        <td ><center><img src="https://gitee.com/mutoupiaoliu/SoftDownload/blob/main/miaoqidong/jieshao.png" ></center></td>
         <td ><center><img src="./miaoqidong/0004.jpg" ></center></td>
         <td ><center><img src="./miaoqidong/0005.jpg" ></center></td>
     </tr>
 </table>
 
-|运动刷步数|消息防撤回|定时发微信
-|:-:|:-:|:-:|
-|![运动刷步数](./miaoqidong/0003.png)|![消息防撤回](./miaoqidong/0004.jpg)|![定时发微信](./miaoqidong/0005.jpg)|
+|功能介绍说明
+|:-:|
+|![功能介绍说明](https://gitee.com/mutoupiaoliu/SoftDownload/blob/main/miaoqidong/jieshao.png)|
 
 
 
