@@ -12,15 +12,6 @@
 
 
 <table>
-
-
-    <tr>
-        <th> 设置页 </th>
-		<th> 防撤回 </th>
-		<th> 刷步数 </th>
-        <th> 定时发微信 </th>
-		<th> 表头2 </th>
-    </tr>
     <tr>
         <td ><center><img src="./miaoqidong/0001.jpg" ></center></td>
         <td ><center><img src="./miaoqidong/0002.jpg" ></center></td>
@@ -29,6 +20,10 @@
         <td ><center><img src="./miaoqidong/0005.jpg" ></center></td>
     </tr>
 </table>
+
+|基础设置|功能展示|
+|:-:|:-:|
+|![基础设置](./miaoqidong/0001.jpg)|![功能展示](./miaoqidong/0002.jpg)|
 
 
 
