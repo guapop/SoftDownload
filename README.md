@@ -21,9 +21,9 @@
     </tr>
 </table>
 
-|基础设置|功能展示|
-|:-:|:-:|
-|![基础设置](./miaoqidong/0001.jpg)|![功能展示](./miaoqidong/0002.jpg)|
+|运动刷步数|消息防撤回|定时发微信
+|:-:|:-:|:-:|
+|![运动刷步数](https://gitee.com/mutoupiaoliu/SoftDownload/blob/main/miaoqidong/0003.jpg)|![消息防撤回](./miaoqidong/0004.jpg)|![定时发微信](./miaoqidong/0005.jpg)|
 
 
 
