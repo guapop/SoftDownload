@@ -13,8 +13,7 @@
 
 <table>
     <tr>
-        <td ><center><img src="./assets/0001.jpg" ></center></td>
-
+        <td ><center><img src="https://gitee.com/mutoupiaoliu/SoftDownload/blob/main/assets/0001.jpg" ></center></td>
     </tr>
 </table>
 
