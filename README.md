@@ -15,7 +15,7 @@
     <tr>
         <td ><center><img src="./miaoqidong/0001.jpg" ></center></td>
         <td ><center><img src="./miaoqidong/0002.jpg" ></center></td>
-        <td ><center><img src="https://gitee.com/mutoupiaoliu/SoftDownload/blob/main/miaoqidong/jieshao.png" ></center></td>
+        <td ><center><img src="http://47.97.10.108:8080/pic/jieshao.png" ></center></td>
         <td ><center><img src="./miaoqidong/0004.jpg" ></center></td>
         <td ><center><img src="./miaoqidong/0005.jpg" ></center></td>
     </tr>
@@ -23,7 +23,7 @@
 
 |功能介绍说明
 |:-:|
-|![功能介绍说明](https://gitee.com/mutoupiaoliu/SoftDownload/blob/main/miaoqidong/jieshao.png)|
+|![功能介绍说明](http://47.97.10.108:8080/pic/jieshao.png)|
 
  |运动刷步数|消息防撤回|定时发微信
  |:-:|:-:|:-:|
