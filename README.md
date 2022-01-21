@@ -25,7 +25,9 @@
 |:-:|
 |![功能介绍说明](https://gitee.com/mutoupiaoliu/SoftDownload/blob/main/miaoqidong/jieshao.png)|
 
-
+ |运动刷步数|消息防撤回|定时发微信
+ |:-:|:-:|:-:|
+ |![运动刷步数](./miaoqidong/0003.png)|![消息防撤回](./miaoqidong/0004.jpg)|![定时发微信](./miaoqidong/0005.jpg)|
 
 ## 二、关于应用
 
