@@ -12,6 +12,15 @@
 
 
 <table>
+
+
+    <tr>
+        <th> 设置页 </th>
+		<th> 防撤回 </th>
+		<th> 刷步数 </th>
+        <th> 定时发微信 </th>
+		<th> 表头2 </th>
+    </tr>
     <tr>
         <td ><center><img src="./miaoqidong/0001.jpg" ></center></td>
         <td ><center><img src="./miaoqidong/0002.jpg" ></center></td>
