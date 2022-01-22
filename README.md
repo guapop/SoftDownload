@@ -1,4 +1,4 @@
-# 趣安卓-所有软件下载地址:
+# 收集到的一些非常好用的黑科技软件:
 
 ## 一、应用介绍
 
@@ -8,36 +8,27 @@
 
 2.【红包助理-QQ版】支持QQ8.8.38版本。
 
-3.【秒启动】定时发微信消息,自动跳过广告,企业微信红包助手。
-
-
-<table>
-    <tr>
-        <td ><center><img src="./miaoqidong/0001.jpg" ></center></td>
-        <td ><center><img src="./miaoqidong/0002.jpg" ></center></td>
-        <td ><center><img src="http://47.97.10.108:8080/pic/jieshao.png" ></center></td>
-        <td ><center><img src="./miaoqidong/0004.jpg" ></center></td>
-        <td ><center><img src="./miaoqidong/0005.jpg" ></center></td>
-    </tr>
-</table>
-
-|功能介绍说明
-|:-:|
-|![功能介绍说明](http://47.97.10.108:8080/pic/jieshao.png)|
+3.【秒启动】定时发微信消息,自动跳过广告,消息防撤回,企业微信红包助手。
 
  |运动刷步数|消息防撤回|定时发微信
  |:-:|:-:|:-:|
  |![运动刷步数](./miaoqidong/0003.png)|![消息防撤回](./miaoqidong/0004.jpg)|![定时发微信](./miaoqidong/0005.jpg)|
 
-## 二、关于应用
+
+* 软件下载总地址：[https://www.pgyer.com/3391236938](https://www.pgyer.com/3391236938)
 
 
+## 二、红包助理Pro  介绍
+  |主界面|定制化设置|
+  |:-:|:-:|
+  |![主界面](http://47.97.10.108:8080/pic/jine.png)|![定制化设置](http://47.97.10.108:8080/pic/shezhi.png)|
 
-## 三、关于发现界面
 
+## 三、秒启动  介绍
+  |功能入口
+  |:-:|
+  |![功能入口](http://47.97.10.108:8080/pic/jieshao.png)|
 
-
-## 四、支持作者
 
 
 
